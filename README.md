@@ -109,7 +109,7 @@ src/
 
 ## Context
 
-Built during **Semester 3** (Spring 2025) at the **German International University**, Cairo — as part of coursework covering Java, OOP, and Data Structures.
+Built during **Semester 2** (Spring 2025) at the **German International University**, Cairo — as part of coursework covering Java, OOP, and Data Structures.
 
 ## License
 
